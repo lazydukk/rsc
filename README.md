@@ -1,2 +1,5 @@
 # Mockup site for Richmond Scrabble Club (RSC)
-#### built with t3-stack and deployed on [vercel]("vercel.com")
+
+
+Built w/ [t3-stack]("https://create.t3.gg/")
+Hosted on ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
