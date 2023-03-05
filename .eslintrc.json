@@ -15,7 +15,7 @@
     "project": "./tsconfig.json"
   },
   "plugins": ["@typescript-eslint"],
-  "extends": ["next/core-web-vitals", "plugin:@typescript-eslint/recommended"],
+  "extends": ["next/babel","next/core-web-vitals"],
   "rules": {
     "@typescript-eslint/consistent-type-imports": "warn"
   }
